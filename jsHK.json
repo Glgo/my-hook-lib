@@ -18,9 +18,9 @@
     "ctime": "2023-06-09",
     "source": "https://github.com/Glgo/my-hook-lib/blob/master/babyFrida.js",
     "id": "com.oak.babyFrida",
-    "title": "BabyNoAd",
+    "title": "BabyNoAdFrida",
     "type": "frida",
-    "version": "1",
+    "version": "2",
     "url": "https://raw.githubusercontent.com/Glgo/my-hook-lib/master/babyFrida.js",
     "desc": "宝宝生活记录去ad-Frida方式",
     "down_count": 1
