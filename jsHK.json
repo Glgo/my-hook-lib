@@ -7,9 +7,9 @@
     "id": "com.oak.baby",
     "title": "BabyNoAd",
     "type": "rhino ",
-    "version": "1",
+    "version": "2",
     "url": "https://raw.githubusercontent.com/Glgo/my-hook-lib/master/baby.js",
     "desc": "宝宝生活记录去ad",
-    "down_count": 0
+    "down_count": 1
   }
 ]
