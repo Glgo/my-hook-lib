@@ -1,0 +1,12 @@
+{
+  "name": "my-hook",
+  "version": "1.0.0",
+  "description": "myhook",
+  "private": true,
+  "main": "*",
+  "scripts": {
+  },
+  "devDependencies": {
+    "@types/frida-gum": "^18.1.0"
+  }
+}
